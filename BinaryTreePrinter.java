@@ -126,8 +126,6 @@ final class BinaryTreePrinter {
                         + MinNodeKeyValue + " and <= " + maxNodeKeyValue +
                         "\n==========================================\n\n\n");
             }
-
-
             fillLevelMap(root.left, level + 1, levelMap);
             levelMap.put(root, level);
             fillLevelMap(root.right, level + 1, levelMap);
