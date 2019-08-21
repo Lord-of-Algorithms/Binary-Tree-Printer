@@ -1,5 +1,5 @@
 # Binary-Tree-Printer
-Print binary tree in console
+Printing binary tree in console.
 
 Current solution prints the nodes with integer keys. 
 
