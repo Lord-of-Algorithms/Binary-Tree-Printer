@@ -1,4 +1,4 @@
-# Binary-Tree-Printer
+# Binary Tree Printer
 
 Current solution prints the nodes with integer key. 
 
