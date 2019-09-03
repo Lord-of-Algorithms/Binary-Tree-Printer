@@ -2,6 +2,8 @@
 
 Current solution prints the nodes with integer key. 
 
+<i>Please note</i> that this repo is auxiliary and it was created to demonstrate the visitor of https://repl.it/@LordOfAlg how the binary tree changes after deleting or inserting a node. 
+
 First method:
 ```java
 BinaryTreePrinter.print(root);
